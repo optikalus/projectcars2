@@ -1,0 +1,1766 @@
+// Persistent data for addon 'sms_stats', addon version 2.0
+// Automatically maintained by the addon, do not edit!
+
+{
+  "next_history_index" : 12,
+  "stats" : {
+    "history" : [
+      {
+        "end_time" : 1590291453,
+        "finished" : false,
+        "index" : 1,
+        "members" : {},
+        "participants" : {},
+        "setup" : {
+          "AllowablePenaltyTime" : 0,
+          "AllowedViews" : 0,
+          "DamageType" : 1,
+          "DriveThroughPenalty" : 0,
+          "Flags" : 525032,
+          "FuelUsageType" : 2,
+          "GridLayout" : 0,
+          "GridSize" : 24,
+          "ManualPitStops" : 0,
+          "ManualRollingStarts" : 0,
+          "MaxPlayers" : 24,
+          "MinimumOnlineRank" : 0,
+          "MinimumOnlineStrength" : 100,
+          "MultiClassSlot1" : -1,
+          "MultiClassSlot2" : -1,
+          "MultiClassSlot3" : -1,
+          "MultiClassSlots" : 0,
+          "OpponentDifficulty" : 50,
+          "PenaltiesType" : 1,
+          "PitWhiteLinePenalty" : 0,
+          "PracticeDateHour" : 11,
+          "PracticeDateProgression" : 0,
+          "PracticeLength" : 0,
+          "PracticeWeatherProgression" : 0,
+          "PracticeWeatherSlot1" : 0,
+          "PracticeWeatherSlot2" : 0,
+          "PracticeWeatherSlot3" : 0,
+          "PracticeWeatherSlot4" : 0,
+          "PracticeWeatherSlots" : 0,
+          "QualifyDateHour" : 11,
+          "QualifyDateProgression" : 0,
+          "QualifyLength" : 0,
+          "QualifyWeatherProgression" : 0,
+          "QualifyWeatherSlot1" : 0,
+          "QualifyWeatherSlot2" : 0,
+          "QualifyWeatherSlot3" : 0,
+          "QualifyWeatherSlot4" : 0,
+          "QualifyWeatherSlots" : 0,
+          "RaceDateDay" : 6,
+          "RaceDateHour" : 11,
+          "RaceDateMonth" : 7,
+          "RaceDateProgression" : 0,
+          "RaceDateYear" : 2015,
+          "RaceFormationLap" : 0,
+          "RaceLength" : 3,
+          "RaceMandatoryPitStops" : 0,
+          "RaceRollingStart" : 0,
+          "RaceWeatherProgression" : 0,
+          "RaceWeatherSlot1" : -934211870,
+          "RaceWeatherSlot2" : -934211870,
+          "RaceWeatherSlot3" : -934211870,
+          "RaceWeatherSlot4" : -934211870,
+          "RaceWeatherSlots" : 1,
+          "ServerControlsSetup" : 0,
+          "ServerControlsTrack" : 0,
+          "ServerControlsVehicle" : 0,
+          "ServerControlsVehicleClass" : 0,
+          "TireWearType" : 8,
+          "TrackId" : 1988984740,
+          "VehicleClassId" : 767810805,
+          "VehicleModelId" : 1106819298
+        },
+        "stages" : {},
+        "start_time" : 1590291425
+      },
+      {
+        "end_time" : 1590295061,
+        "finished" : false,
+        "index" : 2,
+        "members" : {},
+        "participants" : {},
+        "setup" : {
+          "AllowablePenaltyTime" : 0,
+          "AllowedViews" : 0,
+          "DamageType" : 1,
+          "DriveThroughPenalty" : 0,
+          "Flags" : 17433320,
+          "FuelUsageType" : 2,
+          "GridLayout" : 4,
+          "GridSize" : 15,
+          "ManualPitStops" : 0,
+          "ManualRollingStarts" : 0,
+          "MaxPlayers" : 24,
+          "MinimumOnlineRank" : 0,
+          "MinimumOnlineStrength" : 100,
+          "MultiClassSlot1" : -1,
+          "MultiClassSlot2" : -1,
+          "MultiClassSlot3" : -1,
+          "MultiClassSlots" : -1,
+          "OpponentDifficulty" : 0,
+          "PenaltiesType" : 1,
+          "PitWhiteLinePenalty" : 0,
+          "PracticeDateHour" : 0,
+          "PracticeDateProgression" : 0,
+          "PracticeLength" : 0,
+          "PracticeWeatherProgression" : 0,
+          "PracticeWeatherSlot1" : -934211870,
+          "PracticeWeatherSlot2" : -934211870,
+          "PracticeWeatherSlot3" : -934211870,
+          "PracticeWeatherSlot4" : -934211870,
+          "PracticeWeatherSlots" : 0,
+          "QualifyDateHour" : 0,
+          "QualifyDateProgression" : 0,
+          "QualifyLength" : 0,
+          "QualifyWeatherProgression" : 0,
+          "QualifyWeatherSlot1" : -934211870,
+          "QualifyWeatherSlot2" : -934211870,
+          "QualifyWeatherSlot3" : -934211870,
+          "QualifyWeatherSlot4" : -934211870,
+          "QualifyWeatherSlots" : 0,
+          "RaceDateDay" : 27,
+          "RaceDateHour" : 16,
+          "RaceDateMonth" : 4,
+          "RaceDateProgression" : 0,
+          "RaceDateYear" : 2017,
+          "RaceFormationLap" : 0,
+          "RaceLength" : 3,
+          "RaceMandatoryPitStops" : 0,
+          "RaceRollingStart" : 0,
+          "RaceWeatherProgression" : 0,
+          "RaceWeatherSlot1" : -934211870,
+          "RaceWeatherSlot2" : -934211870,
+          "RaceWeatherSlot3" : -934211870,
+          "RaceWeatherSlot4" : -934211870,
+          "RaceWeatherSlots" : 1,
+          "ServerControlsSetup" : 0,
+          "ServerControlsTrack" : 0,
+          "ServerControlsVehicle" : 0,
+          "ServerControlsVehicleClass" : 0,
+          "TireWearType" : 8,
+          "TrackId" : 1988984740,
+          "VehicleClassId" : 767810805,
+          "VehicleModelId" : 1965567405
+        },
+        "stages" : {},
+        "start_time" : 1590295048
+      },
+      {
+        "end_time" : 1590296405,
+        "finished" : true,
+        "index" : 3,
+        "members" : {},
+        "participants" : {
+          "77" : {
+            "IsPlayer" : 1,
+            "LiveryId" : 77,
+            "Name" : "ajslideways",
+            "RefId" : 30144,
+            "VehicleId" : 851491257
+          },
+          "78" : {
+            "IsPlayer" : 1,
+            "LiveryId" : 89,
+            "Name" : "dlichterman",
+            "RefId" : 6081,
+            "VehicleId" : 851491257
+          }
+        },
+        "setup" : {
+          "AllowablePenaltyTime" : 0,
+          "AllowedViews" : 0,
+          "DamageType" : 1,
+          "DriveThroughPenalty" : 0,
+          "Flags" : 17432810,
+          "FuelUsageType" : 2,
+          "GridLayout" : 4,
+          "GridSize" : 15,
+          "ManualPitStops" : 0,
+          "ManualRollingStarts" : 0,
+          "MaxPlayers" : 24,
+          "MinimumOnlineRank" : 0,
+          "MinimumOnlineStrength" : 100,
+          "MultiClassSlot1" : -1,
+          "MultiClassSlot2" : -1,
+          "MultiClassSlot3" : -1,
+          "MultiClassSlots" : -1,
+          "OpponentDifficulty" : 0,
+          "PenaltiesType" : 1,
+          "PitWhiteLinePenalty" : 0,
+          "PracticeDateHour" : 0,
+          "PracticeDateProgression" : 1,
+          "PracticeLength" : 10,
+          "PracticeWeatherProgression" : 1,
+          "PracticeWeatherSlot1" : -934211870,
+          "PracticeWeatherSlot2" : -934211870,
+          "PracticeWeatherSlot3" : -934211870,
+          "PracticeWeatherSlot4" : -934211870,
+          "PracticeWeatherSlots" : 0,
+          "QualifyDateHour" : 0,
+          "QualifyDateProgression" : 0,
+          "QualifyLength" : 10,
+          "QualifyWeatherProgression" : 1,
+          "QualifyWeatherSlot1" : -934211870,
+          "QualifyWeatherSlot2" : -934211870,
+          "QualifyWeatherSlot3" : -934211870,
+          "QualifyWeatherSlot4" : -934211870,
+          "QualifyWeatherSlots" : 0,
+          "RaceDateDay" : 21,
+          "RaceDateHour" : 16,
+          "RaceDateMonth" : 5,
+          "RaceDateProgression" : 1,
+          "RaceDateYear" : 2017,
+          "RaceFormationLap" : 0,
+          "RaceLength" : 25,
+          "RaceMandatoryPitStops" : 0,
+          "RaceRollingStart" : 1,
+          "RaceWeatherProgression" : 0,
+          "RaceWeatherSlot1" : -934211870,
+          "RaceWeatherSlot2" : -934211870,
+          "RaceWeatherSlot3" : -934211870,
+          "RaceWeatherSlot4" : -934211870,
+          "RaceWeatherSlots" : 1,
+          "ServerControlsSetup" : 0,
+          "ServerControlsTrack" : 0,
+          "ServerControlsVehicle" : 0,
+          "ServerControlsVehicleClass" : 0,
+          "TireWearType" : 8,
+          "TrackId" : 2054003546,
+          "VehicleClassId" : 767810805,
+          "VehicleModelId" : 851491257
+        },
+        "stages" : {
+          "practice1" : {
+            "end_time" : 1590296405,
+            "events" : {},
+            "results" : [
+              {
+                "attributes" : {
+                  "FastestLapTime" : 46740,
+                  "Lap" : 10,
+                  "RacePosition" : 1,
+                  "State" : "Finished",
+                  "TotalTime" : 524649,
+                  "VehicleId" : 851491257
+                },
+                "is_player" : true,
+                "name" : "ajslideways",
+                "participantid" : 77,
+                "refid" : 30144,
+                "time" : 1590296405
+              },
+              {
+                "attributes" : {
+                  "FastestLapTime" : 47420,
+                  "Lap" : 10,
+                  "RacePosition" : 2,
+                  "State" : "Disqualified",
+                  "TotalTime" : 622142,
+                  "VehicleId" : 851491257
+                },
+                "is_player" : true,
+                "name" : "dlichterman",
+                "participantid" : 78,
+                "refid" : 6081,
+                "time" : 1590296405
+              }
+            ],
+            "start_time" : 1590295783
+          }
+        },
+        "start_time" : 1590295291
+      },
+      {
+        "end_time" : 1590297823,
+        "finished" : false,
+        "index" : 4,
+        "members" : {},
+        "participants" : {},
+        "setup" : {
+          "AllowablePenaltyTime" : 0,
+          "AllowedViews" : 0,
+          "DamageType" : 1,
+          "DriveThroughPenalty" : 0,
+          "Flags" : 17432810,
+          "FuelUsageType" : 2,
+          "GridLayout" : 4,
+          "GridSize" : 15,
+          "ManualPitStops" : 0,
+          "ManualRollingStarts" : 0,
+          "MaxPlayers" : 24,
+          "MinimumOnlineRank" : 0,
+          "MinimumOnlineStrength" : 100,
+          "MultiClassSlot1" : -1,
+          "MultiClassSlot2" : -1,
+          "MultiClassSlot3" : -1,
+          "MultiClassSlots" : -1,
+          "OpponentDifficulty" : 0,
+          "PenaltiesType" : 1,
+          "PitWhiteLinePenalty" : 0,
+          "PracticeDateHour" : 0,
+          "PracticeDateProgression" : 1,
+          "PracticeLength" : 10,
+          "PracticeWeatherProgression" : 1,
+          "PracticeWeatherSlot1" : -934211870,
+          "PracticeWeatherSlot2" : -934211870,
+          "PracticeWeatherSlot3" : -934211870,
+          "PracticeWeatherSlot4" : -934211870,
+          "PracticeWeatherSlots" : 0,
+          "QualifyDateHour" : 0,
+          "QualifyDateProgression" : 0,
+          "QualifyLength" : 10,
+          "QualifyWeatherProgression" : 1,
+          "QualifyWeatherSlot1" : -934211870,
+          "QualifyWeatherSlot2" : -934211870,
+          "QualifyWeatherSlot3" : -934211870,
+          "QualifyWeatherSlot4" : -934211870,
+          "QualifyWeatherSlots" : 0,
+          "RaceDateDay" : 21,
+          "RaceDateHour" : 16,
+          "RaceDateMonth" : 5,
+          "RaceDateProgression" : 1,
+          "RaceDateYear" : 2017,
+          "RaceFormationLap" : 0,
+          "RaceLength" : 25,
+          "RaceMandatoryPitStops" : 0,
+          "RaceRollingStart" : 1,
+          "RaceWeatherProgression" : 0,
+          "RaceWeatherSlot1" : -934211870,
+          "RaceWeatherSlot2" : -934211870,
+          "RaceWeatherSlot3" : -934211870,
+          "RaceWeatherSlot4" : -934211870,
+          "RaceWeatherSlots" : 1,
+          "ServerControlsSetup" : 0,
+          "ServerControlsTrack" : 0,
+          "ServerControlsVehicle" : 0,
+          "ServerControlsVehicleClass" : 0,
+          "TireWearType" : 8,
+          "TrackId" : 2054003546,
+          "VehicleClassId" : 767810805,
+          "VehicleModelId" : 851491257
+        },
+        "stages" : {},
+        "start_time" : 1590297778
+      },
+      {
+        "end_time" : 1590372886,
+        "finished" : false,
+        "index" : 5,
+        "members" : {},
+        "participants" : {
+          "0" : {
+            "IsPlayer" : 1,
+            "LiveryId" : 10,
+            "Name" : "dlichterman",
+            "RefId" : 32064,
+            "VehicleId" : 1965567405
+          }
+        },
+        "setup" : {
+          "AllowablePenaltyTime" : 0,
+          "AllowedViews" : 0,
+          "DamageType" : 1,
+          "DriveThroughPenalty" : 0,
+          "Flags" : 17302248,
+          "FuelUsageType" : 2,
+          "GridLayout" : 4,
+          "GridSize" : 16,
+          "ManualPitStops" : 0,
+          "ManualRollingStarts" : 0,
+          "MaxPlayers" : 24,
+          "MinimumOnlineRank" : 0,
+          "MinimumOnlineStrength" : 100,
+          "MultiClassSlot1" : -1,
+          "MultiClassSlot2" : -1,
+          "MultiClassSlot3" : -1,
+          "MultiClassSlots" : -1,
+          "OpponentDifficulty" : 0,
+          "PenaltiesType" : 1,
+          "PitWhiteLinePenalty" : 0,
+          "PracticeDateHour" : 11,
+          "PracticeDateProgression" : 0,
+          "PracticeLength" : 10,
+          "PracticeWeatherProgression" : 1,
+          "PracticeWeatherSlot1" : -934211870,
+          "PracticeWeatherSlot2" : -934211870,
+          "PracticeWeatherSlot3" : -934211870,
+          "PracticeWeatherSlot4" : -934211870,
+          "PracticeWeatherSlots" : 0,
+          "QualifyDateHour" : 11,
+          "QualifyDateProgression" : 0,
+          "QualifyLength" : 10,
+          "QualifyWeatherProgression" : 1,
+          "QualifyWeatherSlot1" : -934211870,
+          "QualifyWeatherSlot2" : -934211870,
+          "QualifyWeatherSlot3" : -934211870,
+          "QualifyWeatherSlot4" : -934211870,
+          "QualifyWeatherSlots" : 0,
+          "RaceDateDay" : 27,
+          "RaceDateHour" : 16,
+          "RaceDateMonth" : 4,
+          "RaceDateProgression" : 0,
+          "RaceDateYear" : 2017,
+          "RaceFormationLap" : 0,
+          "RaceLength" : 3,
+          "RaceMandatoryPitStops" : 0,
+          "RaceRollingStart" : 0,
+          "RaceWeatherProgression" : 0,
+          "RaceWeatherSlot1" : -934211870,
+          "RaceWeatherSlot2" : -934211870,
+          "RaceWeatherSlot3" : -934211870,
+          "RaceWeatherSlot4" : -934211870,
+          "RaceWeatherSlots" : 1,
+          "ServerControlsSetup" : 0,
+          "ServerControlsTrack" : 0,
+          "ServerControlsVehicle" : 0,
+          "ServerControlsVehicleClass" : 0,
+          "TireWearType" : 8,
+          "TrackId" : 1988984740,
+          "VehicleClassId" : 767810805,
+          "VehicleModelId" : 1965567405
+        },
+        "stages" : {
+          "practice1" : {
+            "end_time" : 1590372886,
+            "events" : {},
+            "results" : {},
+            "start_time" : 1590372785
+          }
+        },
+        "start_time" : 1590372666
+      },
+      {
+        "end_time" : 1590373720,
+        "finished" : true,
+        "index" : 6,
+        "members" : {},
+        "participants" : [
+          {
+            "IsPlayer" : 1,
+            "LiveryId" : 51,
+            "Name" : "dlichterman",
+            "RefId" : 47424,
+            "VehicleId" : 844159614
+          }
+        ],
+        "setup" : {
+          "AllowablePenaltyTime" : 0,
+          "AllowedViews" : 0,
+          "DamageType" : 1,
+          "DriveThroughPenalty" : 0,
+          "Flags" : 17301738,
+          "FuelUsageType" : 2,
+          "GridLayout" : 4,
+          "GridSize" : 16,
+          "ManualPitStops" : 0,
+          "ManualRollingStarts" : 0,
+          "MaxPlayers" : 24,
+          "MinimumOnlineRank" : 0,
+          "MinimumOnlineStrength" : 100,
+          "MultiClassSlot1" : -1,
+          "MultiClassSlot2" : -1,
+          "MultiClassSlot3" : -1,
+          "MultiClassSlots" : -1,
+          "OpponentDifficulty" : 0,
+          "PenaltiesType" : 1,
+          "PitWhiteLinePenalty" : 0,
+          "PracticeDateHour" : 16,
+          "PracticeDateProgression" : 0,
+          "PracticeLength" : 10,
+          "PracticeWeatherProgression" : 1,
+          "PracticeWeatherSlot1" : -934211870,
+          "PracticeWeatherSlot2" : -934211870,
+          "PracticeWeatherSlot3" : -934211870,
+          "PracticeWeatherSlot4" : -934211870,
+          "PracticeWeatherSlots" : 0,
+          "QualifyDateHour" : 16,
+          "QualifyDateProgression" : 0,
+          "QualifyLength" : 10,
+          "QualifyWeatherProgression" : 1,
+          "QualifyWeatherSlot1" : -934211870,
+          "QualifyWeatherSlot2" : -934211870,
+          "QualifyWeatherSlot3" : -934211870,
+          "QualifyWeatherSlot4" : -934211870,
+          "QualifyWeatherSlots" : 0,
+          "RaceDateDay" : 6,
+          "RaceDateHour" : 16,
+          "RaceDateMonth" : 8,
+          "RaceDateProgression" : 0,
+          "RaceDateYear" : 2017,
+          "RaceFormationLap" : 0,
+          "RaceLength" : 10,
+          "RaceMandatoryPitStops" : 0,
+          "RaceRollingStart" : 0,
+          "RaceWeatherProgression" : 0,
+          "RaceWeatherSlot1" : -934211870,
+          "RaceWeatherSlot2" : -934211870,
+          "RaceWeatherSlot3" : -934211870,
+          "RaceWeatherSlot4" : -934211870,
+          "RaceWeatherSlots" : 1,
+          "ServerControlsSetup" : 0,
+          "ServerControlsTrack" : 0,
+          "ServerControlsVehicle" : 0,
+          "ServerControlsVehicleClass" : 0,
+          "TireWearType" : 8,
+          "TrackId" : -1612023328,
+          "VehicleClassId" : 767810805,
+          "VehicleModelId" : 844159614
+        },
+        "stages" : {
+          "practice1" : {
+            "end_time" : 1590373720,
+            "events" : {},
+            "results" : [
+              {
+                "attributes" : {
+                  "FastestLapTime" : 123581,
+                  "Lap" : 4,
+                  "RacePosition" : 1,
+                  "State" : "Finished",
+                  "TotalTime" : 503394,
+                  "VehicleId" : 844159614
+                },
+                "is_player" : true,
+                "name" : "dlichterman",
+                "participantid" : 1,
+                "refid" : 47424,
+                "time" : 1590373720
+              }
+            ],
+            "start_time" : 1590373037
+          }
+        },
+        "start_time" : 1590372939
+      },
+      {
+        "end_time" : 1590375854,
+        "finished" : true,
+        "index" : 7,
+        "members" : {},
+        "participants" : {
+          "0" : {
+            "IsPlayer" : 1,
+            "LiveryId" : 69,
+            "Name" : "dlichterman",
+            "RefId" : 51776,
+            "VehicleId" : 1464988033
+          },
+          "1" : {
+            "IsPlayer" : 1,
+            "LiveryId" : 71,
+            "Name" : "ajslideways",
+            "RefId" : 5761,
+            "VehicleId" : 1464988033
+          },
+          "2" : {
+            "IsPlayer" : 1,
+            "LiveryId" : 64,
+            "Name" : "Gurney Halleck",
+            "RefId" : 20738,
+            "VehicleId" : 1464988033
+          },
+          "3" : {
+            "IsPlayer" : 1,
+            "LiveryId" : 99,
+            "Name" : "jack.mott",
+            "RefId" : 25603,
+            "VehicleId" : 1464988033
+          },
+          "4" : {
+            "IsPlayer" : 1,
+            "LiveryId" : 73,
+            "Name" : "Wintermute",
+            "RefId" : 14340,
+            "VehicleId" : 1464988033
+          }
+        },
+        "setup" : {
+          "AllowablePenaltyTime" : 0,
+          "AllowedViews" : 0,
+          "DamageType" : 1,
+          "DriveThroughPenalty" : 0,
+          "Flags" : 17432810,
+          "FuelUsageType" : 2,
+          "GridLayout" : 0,
+          "GridSize" : 15,
+          "ManualPitStops" : 0,
+          "ManualRollingStarts" : 0,
+          "MaxPlayers" : 24,
+          "MinimumOnlineRank" : 0,
+          "MinimumOnlineStrength" : 100,
+          "MultiClassSlot1" : -1,
+          "MultiClassSlot2" : -1,
+          "MultiClassSlot3" : -1,
+          "MultiClassSlots" : -1,
+          "OpponentDifficulty" : 0,
+          "PenaltiesType" : 1,
+          "PitWhiteLinePenalty" : 0,
+          "PracticeDateHour" : 11,
+          "PracticeDateProgression" : 1,
+          "PracticeLength" : 10,
+          "PracticeWeatherProgression" : 1,
+          "PracticeWeatherSlot1" : -934211870,
+          "PracticeWeatherSlot2" : -934211870,
+          "PracticeWeatherSlot3" : -934211870,
+          "PracticeWeatherSlot4" : -934211870,
+          "PracticeWeatherSlots" : 0,
+          "QualifyDateHour" : 11,
+          "QualifyDateProgression" : 1,
+          "QualifyLength" : 10,
+          "QualifyWeatherProgression" : 1,
+          "QualifyWeatherSlot1" : -934211870,
+          "QualifyWeatherSlot2" : -934211870,
+          "QualifyWeatherSlot3" : -934211870,
+          "QualifyWeatherSlot4" : -934211870,
+          "QualifyWeatherSlots" : 0,
+          "RaceDateDay" : 29,
+          "RaceDateHour" : 16,
+          "RaceDateMonth" : 7,
+          "RaceDateProgression" : 0,
+          "RaceDateYear" : 2017,
+          "RaceFormationLap" : 0,
+          "RaceLength" : 10,
+          "RaceMandatoryPitStops" : 0,
+          "RaceRollingStart" : 0,
+          "RaceWeatherProgression" : 0,
+          "RaceWeatherSlot1" : -934211870,
+          "RaceWeatherSlot2" : -934211870,
+          "RaceWeatherSlot3" : -934211870,
+          "RaceWeatherSlot4" : -934211870,
+          "RaceWeatherSlots" : 1,
+          "ServerControlsSetup" : 0,
+          "ServerControlsTrack" : 0,
+          "ServerControlsVehicle" : 0,
+          "ServerControlsVehicleClass" : 0,
+          "TireWearType" : 8,
+          "TrackId" : 2050315946,
+          "VehicleClassId" : 767810805,
+          "VehicleModelId" : 1464988033
+        },
+        "stages" : {
+          "practice1" : {
+            "end_time" : 1590375854,
+            "events" : {},
+            "results" : [
+              {
+                "attributes" : {
+                  "FastestLapTime" : 143820,
+                  "Lap" : 3,
+                  "RacePosition" : 1,
+                  "State" : "Finished",
+                  "TotalTime" : 434418,
+                  "VehicleId" : 1464988033
+                },
+                "is_player" : true,
+                "name" : "jack.mott",
+                "participantid" : 3,
+                "refid" : 25603,
+                "time" : 1590375854
+              },
+              {
+                "attributes" : {
+                  "FastestLapTime" : 144220,
+                  "Lap" : 3,
+                  "RacePosition" : 2,
+                  "State" : "Finished",
+                  "TotalTime" : 440478,
+                  "VehicleId" : 1464988033
+                },
+                "is_player" : true,
+                "name" : "dlichterman",
+                "participantid" : 0,
+                "refid" : 51776,
+                "time" : 1590375854
+              },
+              {
+                "attributes" : {
+                  "FastestLapTime" : 146051,
+                  "Lap" : 3,
+                  "RacePosition" : 3,
+                  "State" : "Finished",
+                  "TotalTime" : 441063,
+                  "VehicleId" : 1464988033
+                },
+                "is_player" : true,
+                "name" : "ajslideways",
+                "participantid" : 1,
+                "refid" : 5761,
+                "time" : 1590375854
+              },
+              {
+                "attributes" : {
+                  "FastestLapTime" : 151455,
+                  "Lap" : 3,
+                  "RacePosition" : 4,
+                  "State" : "Finished",
+                  "TotalTime" : 307204,
+                  "VehicleId" : 1464988033
+                },
+                "is_player" : true,
+                "name" : "Gurney Halleck",
+                "participantid" : 2,
+                "refid" : 20738,
+                "time" : 1590375854
+              },
+              {
+                "attributes" : {
+                  "FastestLapTime" : 152000,
+                  "Lap" : 3,
+                  "RacePosition" : 5,
+                  "State" : "Finished",
+                  "TotalTime" : 462696,
+                  "VehicleId" : 1464988033
+                },
+                "is_player" : true,
+                "name" : "Wintermute",
+                "participantid" : 4,
+                "refid" : 14340,
+                "time" : 1590375854
+              }
+            ],
+            "start_time" : 1590375200
+          }
+        },
+        "start_time" : 1590373848
+      },
+      {
+        "end_time" : 1590379308,
+        "finished" : true,
+        "index" : 8,
+        "members" : {
+          "33283" : {
+            "index" : 3,
+            "join_time" : 1590378682,
+            "leave_time" : -1,
+            "name" : "Dennis Vitolo",
+            "participantid" : 8,
+            "setup" : {
+              "LiveryId" : 69,
+              "RaceStatFlags" : 1073796869,
+              "VehicleId" : 844159614
+            },
+            "steamid" : "76561198125482786"
+          },
+          "49414" : {
+            "index" : 6,
+            "join_time" : 1590378703,
+            "leave_time" : -1,
+            "name" : "david",
+            "participantid" : 7,
+            "setup" : {
+              "LiveryId" : 67,
+              "RaceStatFlags" : 1073779972,
+              "VehicleId" : 844159614
+            },
+            "steamid" : "76561199041603427"
+          }
+        },
+        "participants" : {
+          "2" : {
+            "IsPlayer" : 1,
+            "LiveryId" : 51,
+            "Name" : "dlichterman",
+            "RefId" : 51776,
+            "VehicleId" : 844159614
+          },
+          "3" : {
+            "IsPlayer" : 1,
+            "LiveryId" : 65,
+            "Name" : "ajslideways",
+            "RefId" : 40129,
+            "VehicleId" : 844159614
+          },
+          "4" : {
+            "IsPlayer" : 1,
+            "LiveryId" : 70,
+            "Name" : "gunkl",
+            "RefId" : 22722,
+            "VehicleId" : 844159614
+          },
+          "5" : {
+            "IsPlayer" : 1,
+            "LiveryId" : 68,
+            "Name" : "Wintermute",
+            "RefId" : 14340,
+            "VehicleId" : 844159614
+          },
+          "6" : {
+            "IsPlayer" : 1,
+            "LiveryId" : 64,
+            "Name" : "=MIKEY=",
+            "RefId" : 18693,
+            "VehicleId" : 844159614
+          },
+          "7" : {
+            "IsPlayer" : 1,
+            "LiveryId" : 67,
+            "Name" : "david",
+            "RefId" : 49414,
+            "VehicleId" : 844159614
+          },
+          "8" : {
+            "IsPlayer" : 1,
+            "LiveryId" : 69,
+            "Name" : "Dennis Vitolo",
+            "RefId" : 33283,
+            "VehicleId" : 844159614
+          }
+        },
+        "setup" : {
+          "AllowablePenaltyTime" : 0,
+          "AllowedViews" : 0,
+          "DamageType" : 1,
+          "DriveThroughPenalty" : 0,
+          "Flags" : 17301738,
+          "FuelUsageType" : 2,
+          "GridLayout" : 0,
+          "GridSize" : 16,
+          "ManualPitStops" : 0,
+          "ManualRollingStarts" : 0,
+          "MaxPlayers" : 24,
+          "MinimumOnlineRank" : 0,
+          "MinimumOnlineStrength" : 100,
+          "MultiClassSlot1" : -1,
+          "MultiClassSlot2" : -1,
+          "MultiClassSlot3" : -1,
+          "MultiClassSlots" : -1,
+          "OpponentDifficulty" : 0,
+          "PenaltiesType" : 0,
+          "PitWhiteLinePenalty" : 0,
+          "PracticeDateHour" : 11,
+          "PracticeDateProgression" : 1,
+          "PracticeLength" : 10,
+          "PracticeWeatherProgression" : 1,
+          "PracticeWeatherSlot1" : -934211870,
+          "PracticeWeatherSlot2" : -934211870,
+          "PracticeWeatherSlot3" : -934211870,
+          "PracticeWeatherSlot4" : -934211870,
+          "PracticeWeatherSlots" : 0,
+          "QualifyDateHour" : 11,
+          "QualifyDateProgression" : 1,
+          "QualifyLength" : 10,
+          "QualifyWeatherProgression" : 1,
+          "QualifyWeatherSlot1" : -934211870,
+          "QualifyWeatherSlot2" : -934211870,
+          "QualifyWeatherSlot3" : -934211870,
+          "QualifyWeatherSlot4" : -934211870,
+          "QualifyWeatherSlots" : 0,
+          "RaceDateDay" : 3,
+          "RaceDateHour" : 16,
+          "RaceDateMonth" : 5,
+          "RaceDateProgression" : 0,
+          "RaceDateYear" : 2017,
+          "RaceFormationLap" : 0,
+          "RaceLength" : 10,
+          "RaceMandatoryPitStops" : 0,
+          "RaceRollingStart" : 0,
+          "RaceWeatherProgression" : 0,
+          "RaceWeatherSlot1" : -934211870,
+          "RaceWeatherSlot2" : -934211870,
+          "RaceWeatherSlot3" : -934211870,
+          "RaceWeatherSlot4" : -934211870,
+          "RaceWeatherSlots" : 1,
+          "ServerControlsSetup" : 0,
+          "ServerControlsTrack" : 0,
+          "ServerControlsVehicle" : 0,
+          "ServerControlsVehicleClass" : 0,
+          "TireWearType" : 8,
+          "TrackId" : -1849531562,
+          "VehicleClassId" : 767810805,
+          "VehicleModelId" : 844159614
+        },
+        "stages" : {
+          "practice1" : {
+            "end_time" : 1590379308,
+            "events" : {},
+            "results" : [
+              {
+                "attributes" : {
+                  "FastestLapTime" : 63461,
+                  "Lap" : 4,
+                  "RacePosition" : 1,
+                  "State" : "Finished",
+                  "TotalTime" : 600000,
+                  "VehicleId" : 844159614
+                },
+                "is_player" : true,
+                "name" : "david",
+                "participantid" : 7,
+                "refid" : 49414,
+                "time" : 1590379308
+              },
+              {
+                "attributes" : {
+                  "FastestLapTime" : 67000,
+                  "Lap" : 8,
+                  "RacePosition" : 2,
+                  "State" : "Finished",
+                  "TotalTime" : 560207,
+                  "VehicleId" : 844159614
+                },
+                "is_player" : true,
+                "name" : "dlichterman",
+                "participantid" : 2,
+                "refid" : 51776,
+                "time" : 1590379308
+              },
+              {
+                "attributes" : {
+                  "FastestLapTime" : 69701,
+                  "Lap" : 5,
+                  "RacePosition" : 3,
+                  "State" : "Finished",
+                  "TotalTime" : 533875,
+                  "VehicleId" : 844159614
+                },
+                "is_player" : true,
+                "name" : "=MIKEY=",
+                "participantid" : 6,
+                "refid" : 18693,
+                "time" : 1590379308
+              },
+              {
+                "attributes" : {
+                  "FastestLapTime" : 69745,
+                  "Lap" : 5,
+                  "RacePosition" : 4,
+                  "State" : "Finished",
+                  "TotalTime" : 514751,
+                  "VehicleId" : 844159614
+                },
+                "is_player" : true,
+                "name" : "Wintermute",
+                "participantid" : 5,
+                "refid" : 14340,
+                "time" : 1590379308
+              },
+              {
+                "attributes" : {
+                  "FastestLapTime" : 71739,
+                  "Lap" : 6,
+                  "RacePosition" : 5,
+                  "State" : "Finished",
+                  "TotalTime" : 520288,
+                  "VehicleId" : 844159614
+                },
+                "is_player" : true,
+                "name" : "gunkl",
+                "participantid" : 4,
+                "refid" : 22722,
+                "time" : 1590379308
+              },
+              {
+                "attributes" : {
+                  "FastestLapTime" : 72849,
+                  "Lap" : 3,
+                  "RacePosition" : 6,
+                  "State" : "Finished",
+                  "TotalTime" : 604031,
+                  "VehicleId" : 844159614
+                },
+                "is_player" : true,
+                "name" : "Dennis Vitolo",
+                "participantid" : 8,
+                "refid" : 33283,
+                "time" : 1590379308
+              },
+              {
+                "attributes" : {
+                  "FastestLapTime" : 73151,
+                  "Lap" : 6,
+                  "RacePosition" : 7,
+                  "State" : "Retired",
+                  "TotalTime" : 635619,
+                  "VehicleId" : 844159614
+                },
+                "is_player" : true,
+                "name" : "ajslideways",
+                "participantid" : 3,
+                "refid" : 40129,
+                "time" : 1590379308
+              }
+            ],
+            "start_time" : 1590378650
+          }
+        },
+        "start_time" : 1590378116
+      },
+      {
+        "end_time" : 1590381586,
+        "finished" : true,
+        "index" : 9,
+        "members" : {},
+        "participants" : {
+          "10" : {
+            "IsPlayer" : 1,
+            "LiveryId" : 64,
+            "Name" : "david",
+            "RefId" : 49414,
+            "VehicleId" : -1548941295
+          },
+          "11" : {
+            "IsPlayer" : 1,
+            "LiveryId" : 57,
+            "Name" : "optikal",
+            "RefId" : 62919,
+            "VehicleId" : -1548941295
+          },
+          "6" : {
+            "IsPlayer" : 1,
+            "LiveryId" : 61,
+            "Name" : "dlichterman",
+            "RefId" : 49216,
+            "VehicleId" : -1548941295
+          },
+          "7" : {
+            "IsPlayer" : 1,
+            "LiveryId" : 65,
+            "Name" : "ajslideways",
+            "RefId" : 40129,
+            "VehicleId" : -1548941295
+          },
+          "8" : {
+            "IsPlayer" : 1,
+            "LiveryId" : 53,
+            "Name" : "gunkl",
+            "RefId" : 22722,
+            "VehicleId" : -1548941295
+          },
+          "9" : {
+            "IsPlayer" : 1,
+            "LiveryId" : 59,
+            "Name" : "Wintermute",
+            "RefId" : 39748,
+            "VehicleId" : -1548941295
+          }
+        },
+        "setup" : {
+          "AllowablePenaltyTime" : 0,
+          "AllowedViews" : 0,
+          "DamageType" : 1,
+          "DriveThroughPenalty" : 0,
+          "Flags" : 17432810,
+          "FuelUsageType" : 2,
+          "GridLayout" : 0,
+          "GridSize" : 15,
+          "ManualPitStops" : 0,
+          "ManualRollingStarts" : 0,
+          "MaxPlayers" : 24,
+          "MinimumOnlineRank" : 0,
+          "MinimumOnlineStrength" : 100,
+          "MultiClassSlot1" : -1,
+          "MultiClassSlot2" : -1,
+          "MultiClassSlot3" : -1,
+          "MultiClassSlots" : -1,
+          "OpponentDifficulty" : 0,
+          "PenaltiesType" : 0,
+          "PitWhiteLinePenalty" : 0,
+          "PracticeDateHour" : 0,
+          "PracticeDateProgression" : 0,
+          "PracticeLength" : 0,
+          "PracticeWeatherProgression" : 0,
+          "PracticeWeatherSlot1" : -934211870,
+          "PracticeWeatherSlot2" : -934211870,
+          "PracticeWeatherSlot3" : -934211870,
+          "PracticeWeatherSlot4" : -934211870,
+          "PracticeWeatherSlots" : 0,
+          "QualifyDateHour" : 0,
+          "QualifyDateProgression" : 0,
+          "QualifyLength" : 0,
+          "QualifyWeatherProgression" : 0,
+          "QualifyWeatherSlot1" : -934211870,
+          "QualifyWeatherSlot2" : -934211870,
+          "QualifyWeatherSlot3" : -934211870,
+          "QualifyWeatherSlot4" : -934211870,
+          "QualifyWeatherSlots" : 0,
+          "RaceDateDay" : 21,
+          "RaceDateHour" : 16,
+          "RaceDateMonth" : 5,
+          "RaceDateProgression" : 0,
+          "RaceDateYear" : 2017,
+          "RaceFormationLap" : 0,
+          "RaceLength" : 10,
+          "RaceMandatoryPitStops" : 0,
+          "RaceRollingStart" : 0,
+          "RaceWeatherProgression" : 0,
+          "RaceWeatherSlot1" : -934211870,
+          "RaceWeatherSlot2" : -934211870,
+          "RaceWeatherSlot3" : -934211870,
+          "RaceWeatherSlot4" : -934211870,
+          "RaceWeatherSlots" : 1,
+          "ServerControlsSetup" : 0,
+          "ServerControlsTrack" : 0,
+          "ServerControlsVehicle" : 0,
+          "ServerControlsVehicleClass" : 0,
+          "TireWearType" : 8,
+          "TrackId" : 35770107,
+          "VehicleClassId" : 767810805,
+          "VehicleModelId" : -1548941295
+        },
+        "stages" : {
+          "race1" : {
+            "end_time" : 1590381586,
+            "events" : {},
+            "results" : [
+              {
+                "attributes" : {
+                  "FastestLapTime" : 50258,
+                  "Lap" : 10,
+                  "RacePosition" : 1,
+                  "State" : "Finished",
+                  "TotalTime" : 519298,
+                  "VehicleId" : -1548941295
+                },
+                "is_player" : true,
+                "name" : "Wintermute",
+                "participantid" : 9,
+                "refid" : 39748,
+                "time" : 1590381586
+              },
+              {
+                "attributes" : {
+                  "FastestLapTime" : 47766,
+                  "Lap" : 10,
+                  "RacePosition" : 2,
+                  "State" : "Finished",
+                  "TotalTime" : 525685,
+                  "VehicleId" : -1548941295
+                },
+                "is_player" : true,
+                "name" : "ajslideways",
+                "participantid" : 7,
+                "refid" : 40129,
+                "time" : 1590381586
+              },
+              {
+                "attributes" : {
+                  "FastestLapTime" : 46580,
+                  "Lap" : 10,
+                  "RacePosition" : 3,
+                  "State" : "Finished",
+                  "TotalTime" : 526569,
+                  "VehicleId" : -1548941295
+                },
+                "is_player" : true,
+                "name" : "optikal",
+                "participantid" : 11,
+                "refid" : 62919,
+                "time" : 1590381586
+              },
+              {
+                "attributes" : {
+                  "FastestLapTime" : 47898,
+                  "Lap" : 10,
+                  "RacePosition" : 4,
+                  "State" : "Finished",
+                  "TotalTime" : 533679,
+                  "VehicleId" : -1548941295
+                },
+                "is_player" : true,
+                "name" : "david",
+                "participantid" : 10,
+                "refid" : 49414,
+                "time" : 1590381586
+              },
+              {
+                "attributes" : {
+                  "FastestLapTime" : 60818,
+                  "Lap" : 6,
+                  "RacePosition" : 5,
+                  "State" : "Finished",
+                  "TotalTime" : 537372,
+                  "VehicleId" : -1548941295
+                },
+                "is_player" : true,
+                "name" : "gunkl",
+                "participantid" : 8,
+                "refid" : 22722,
+                "time" : 1590381586
+              },
+              {
+                "attributes" : {
+                  "FastestLapTime" : 53519,
+                  "Lap" : 6,
+                  "RacePosition" : 6,
+                  "State" : "Retired",
+                  "TotalTime" : 550394,
+                  "VehicleId" : -1548941295
+                },
+                "is_player" : true,
+                "name" : "dlichterman",
+                "participantid" : 6,
+                "refid" : 49216,
+                "time" : 1590381586
+              }
+            ],
+            "start_time" : 1590380994
+          }
+        },
+        "start_time" : 1590380816
+      },
+      {
+        "end_time" : 1590381984,
+        "finished" : false,
+        "index" : 10,
+        "members" : {
+          "16065" : {
+            "index" : 1,
+            "join_time" : 1590381688,
+            "leave_time" : 1590381984,
+            "name" : "ajslideways",
+            "participantid" : -1,
+            "setup" : {
+              "LiveryId" : 8,
+              "RaceStatFlags" : 0,
+              "VehicleId" : 728234598
+            },
+            "steamid" : "76561198202621870"
+          }
+        },
+        "participants" : {},
+        "setup" : {
+          "AllowablePenaltyTime" : 0,
+          "AllowedViews" : 0,
+          "DamageType" : 1,
+          "DriveThroughPenalty" : 0,
+          "Flags" : 17432810,
+          "FuelUsageType" : 2,
+          "GridLayout" : 0,
+          "GridSize" : 15,
+          "ManualPitStops" : 0,
+          "ManualRollingStarts" : 0,
+          "MaxPlayers" : 24,
+          "MinimumOnlineRank" : 0,
+          "MinimumOnlineStrength" : 100,
+          "MultiClassSlot1" : -1,
+          "MultiClassSlot2" : -1,
+          "MultiClassSlot3" : -1,
+          "MultiClassSlots" : -1,
+          "OpponentDifficulty" : 0,
+          "PenaltiesType" : 0,
+          "PitWhiteLinePenalty" : 0,
+          "PracticeDateHour" : 0,
+          "PracticeDateProgression" : 0,
+          "PracticeLength" : 0,
+          "PracticeWeatherProgression" : 0,
+          "PracticeWeatherSlot1" : -934211870,
+          "PracticeWeatherSlot2" : -934211870,
+          "PracticeWeatherSlot3" : -934211870,
+          "PracticeWeatherSlot4" : -934211870,
+          "PracticeWeatherSlots" : 0,
+          "QualifyDateHour" : 0,
+          "QualifyDateProgression" : 0,
+          "QualifyLength" : 0,
+          "QualifyWeatherProgression" : 0,
+          "QualifyWeatherSlot1" : -934211870,
+          "QualifyWeatherSlot2" : -934211870,
+          "QualifyWeatherSlot3" : -934211870,
+          "QualifyWeatherSlot4" : -934211870,
+          "QualifyWeatherSlots" : 0,
+          "RaceDateDay" : 21,
+          "RaceDateHour" : 16,
+          "RaceDateMonth" : 5,
+          "RaceDateProgression" : 0,
+          "RaceDateYear" : 2017,
+          "RaceFormationLap" : 0,
+          "RaceLength" : 10,
+          "RaceMandatoryPitStops" : 0,
+          "RaceRollingStart" : 0,
+          "RaceWeatherProgression" : 0,
+          "RaceWeatherSlot1" : -934211870,
+          "RaceWeatherSlot2" : -934211870,
+          "RaceWeatherSlot3" : -934211870,
+          "RaceWeatherSlot4" : -934211870,
+          "RaceWeatherSlots" : 1,
+          "ServerControlsSetup" : 0,
+          "ServerControlsTrack" : 0,
+          "ServerControlsVehicle" : 0,
+          "ServerControlsVehicleClass" : 0,
+          "TireWearType" : 8,
+          "TrackId" : 35770107,
+          "VehicleClassId" : 767810805,
+          "VehicleModelId" : -1548941295
+        },
+        "stages" : {},
+        "start_time" : 1590381600
+      },
+      {
+        "end_time" : 1590382290,
+        "finished" : false,
+        "index" : 11,
+        "members" : {},
+        "participants" : {},
+        "setup" : {
+          "AllowablePenaltyTime" : 0,
+          "AllowedViews" : 0,
+          "DamageType" : 1,
+          "DriveThroughPenalty" : 0,
+          "Flags" : 524522,
+          "FuelUsageType" : 2,
+          "GridLayout" : 0,
+          "GridSize" : 24,
+          "ManualPitStops" : 0,
+          "ManualRollingStarts" : 0,
+          "MaxPlayers" : 24,
+          "MinimumOnlineRank" : 0,
+          "MinimumOnlineStrength" : 100,
+          "MultiClassSlot1" : -1,
+          "MultiClassSlot2" : -1,
+          "MultiClassSlot3" : -1,
+          "MultiClassSlots" : 0,
+          "OpponentDifficulty" : 50,
+          "PenaltiesType" : 1,
+          "PitWhiteLinePenalty" : 0,
+          "PracticeDateHour" : 11,
+          "PracticeDateProgression" : 0,
+          "PracticeLength" : 0,
+          "PracticeWeatherProgression" : 0,
+          "PracticeWeatherSlot1" : -934211870,
+          "PracticeWeatherSlot2" : -934211870,
+          "PracticeWeatherSlot3" : -934211870,
+          "PracticeWeatherSlot4" : -934211870,
+          "PracticeWeatherSlots" : 0,
+          "QualifyDateHour" : 11,
+          "QualifyDateProgression" : 0,
+          "QualifyLength" : 0,
+          "QualifyWeatherProgression" : 0,
+          "QualifyWeatherSlot1" : -934211870,
+          "QualifyWeatherSlot2" : -934211870,
+          "QualifyWeatherSlot3" : -934211870,
+          "QualifyWeatherSlot4" : -934211870,
+          "QualifyWeatherSlots" : 0,
+          "RaceDateDay" : 6,
+          "RaceDateHour" : 11,
+          "RaceDateMonth" : 7,
+          "RaceDateProgression" : 0,
+          "RaceDateYear" : 2015,
+          "RaceFormationLap" : 0,
+          "RaceLength" : 3,
+          "RaceMandatoryPitStops" : 0,
+          "RaceRollingStart" : 0,
+          "RaceWeatherProgression" : 0,
+          "RaceWeatherSlot1" : -934211870,
+          "RaceWeatherSlot2" : -934211870,
+          "RaceWeatherSlot3" : -934211870,
+          "RaceWeatherSlot4" : -934211870,
+          "RaceWeatherSlots" : 1,
+          "ServerControlsSetup" : 0,
+          "ServerControlsTrack" : 0,
+          "ServerControlsVehicle" : 0,
+          "ServerControlsVehicleClass" : 0,
+          "TireWearType" : 8,
+          "TrackId" : 1988984740,
+          "VehicleClassId" : 767810805,
+          "VehicleModelId" : 1106819298
+        },
+        "stages" : {},
+        "start_time" : 1590382259
+      }
+    ],
+    "players" : {
+      "76561197964601835" : {
+        "counts" : {
+          "qualify" : {
+            "positions" : {},
+            "positions_per_size" : {},
+            "states" : {}
+          },
+          "race" : {
+            "positions" : {
+              "1" : 1,
+              "3" : 1,
+              "4" : 1,
+              "6" : 1
+            },
+            "positions_per_size" : {
+              "0" : {
+                "1" : 1,
+                "3" : 1,
+                "4" : 1,
+                "6" : 1
+              }
+            },
+            "states" : {
+              "finished" : 2,
+              "retired" : 2
+            }
+          },
+          "race_finishes" : 0,
+          "race_joins" : 6,
+          "race_loads" : 0,
+          "race_loads_done" : 0,
+          "track_distances" : {
+            "-1612023328" : 18095,
+            "-1849531562" : 44222,
+            "2050315946" : 93453,
+            "2054003546" : 144842,
+            "35770107" : 6881
+          },
+          "tracks" : {},
+          "vehicle_distances" : {
+            "-1548941295" : 6881,
+            "1464988033" : 93453,
+            "844159614" : 62317,
+            "851491257" : 144842
+          },
+          "vehicles" : {}
+        },
+        "last_joined" : 1590380924,
+        "name" : "dlichterman"
+      },
+      "76561197964834147" : {
+        "counts" : {
+          "qualify" : {
+            "positions" : {},
+            "positions_per_size" : {},
+            "states" : {}
+          },
+          "race" : {
+            "positions" : [
+              3
+            ],
+            "positions_per_size" : {
+              "0" : [
+                3
+              ]
+            },
+            "states" : {
+              "finished" : 3
+            }
+          },
+          "race_finishes" : 0,
+          "race_joins" : 3,
+          "race_loads" : 1,
+          "race_loads_done" : 1,
+          "track_distances" : {
+            "-1849531562" : 53741,
+            "2050315946" : 98365,
+            "35770107" : 11057
+          },
+          "tracks" : {},
+          "vehicle_distances" : {
+            "-1548941295" : 11057,
+            "1464988033" : 98365,
+            "844159614" : 53741
+          },
+          "vehicles" : {}
+        },
+        "last_joined" : 1590382258,
+        "name" : "Wintermute"
+      },
+      "76561197970665783" : {
+        "counts" : {
+          "qualify" : {
+            "positions" : {},
+            "positions_per_size" : {},
+            "states" : {}
+          },
+          "race" : {
+            "positions" : {},
+            "positions_per_size" : {},
+            "states" : {}
+          },
+          "race_finishes" : 0,
+          "race_joins" : 2,
+          "race_loads" : 1,
+          "race_loads_done" : 1,
+          "track_distances" : {
+            "2050315946" : 55234
+          },
+          "tracks" : {},
+          "vehicle_distances" : {
+            "1464988033" : 55234
+          },
+          "vehicles" : {}
+        },
+        "last_joined" : 1590375892,
+        "name" : "jack.mott"
+      },
+      "76561197970946278" : {
+        "counts" : {
+          "qualify" : {
+            "positions" : {},
+            "positions_per_size" : {},
+            "states" : {}
+          },
+          "race" : {
+            "positions" : {},
+            "positions_per_size" : {},
+            "states" : {}
+          },
+          "race_finishes" : 0,
+          "race_joins" : 1,
+          "race_loads" : 1,
+          "race_loads_done" : 1,
+          "track_distances" : {
+            "-1849531562" : 22268
+          },
+          "tracks" : {},
+          "vehicle_distances" : {
+            "844159614" : 22268
+          },
+          "vehicles" : {}
+        },
+        "last_joined" : 1590377411,
+        "name" : "=MIKEY="
+      },
+      "76561197976659072" : {
+        "counts" : {
+          "qualify" : {
+            "positions" : {},
+            "positions_per_size" : {},
+            "states" : {}
+          },
+          "race" : {
+            "positions" : {
+              "3" : 2
+            },
+            "positions_per_size" : {
+              "0" : {
+                "3" : 2
+              }
+            },
+            "states" : {
+              "finished" : 2
+            }
+          },
+          "race_finishes" : 0,
+          "race_joins" : 2,
+          "race_loads" : 1,
+          "race_loads_done" : 1,
+          "track_distances" : {
+            "-1849531562" : 40334,
+            "35770107" : 11052
+          },
+          "tracks" : {},
+          "vehicle_distances" : {
+            "-1548941295" : 11052,
+            "844159614" : 40334
+          },
+          "vehicles" : {}
+        },
+        "last_joined" : 1590379427,
+        "name" : "optikal"
+      },
+      "76561198125482786" : {
+        "counts" : {
+          "qualify" : {
+            "positions" : {},
+            "positions_per_size" : {},
+            "states" : {}
+          },
+          "race" : {
+            "positions" : {
+              "4" : 1
+            },
+            "positions_per_size" : {
+              "0" : {
+                "4" : 1
+              }
+            },
+            "states" : {
+              "finished" : 1
+            }
+          },
+          "race_finishes" : 0,
+          "race_joins" : 2,
+          "race_loads" : 1,
+          "race_loads_done" : 1,
+          "track_distances" : {
+            "-1849531562" : 33565,
+            "2050315946" : 94427
+          },
+          "tracks" : {},
+          "vehicle_distances" : {
+            "1464988033" : 94427,
+            "844159614" : 33565
+          },
+          "vehicles" : {}
+        },
+        "last_joined" : 1590378682,
+        "name" : "Dennis Vitolo"
+      },
+      "76561198131073550" : {
+        "counts" : {
+          "qualify" : {
+            "positions" : {},
+            "positions_per_size" : {},
+            "states" : {}
+          },
+          "race" : {
+            "positions" : {
+              "5" : 2
+            },
+            "positions_per_size" : {
+              "0" : {
+                "5" : 2
+              }
+            },
+            "states" : {
+              "finished" : 2
+            }
+          },
+          "race_finishes" : 0,
+          "race_joins" : 2,
+          "race_loads" : 0,
+          "race_loads_done" : 0,
+          "track_distances" : {
+            "-1849531562" : 39904,
+            "35770107" : 8026
+          },
+          "tracks" : {},
+          "vehicle_distances" : {
+            "-1548941295" : 8026,
+            "844159614" : 39904
+          },
+          "vehicles" : {}
+        },
+        "last_joined" : 1590378344,
+        "name" : "gunkl"
+      },
+      "76561198202621870" : {
+        "counts" : {
+          "qualify" : {
+            "positions" : {},
+            "positions_per_size" : {},
+            "states" : {}
+          },
+          "race" : {
+            "positions" : {
+              "2" : 3,
+              "6" : 1
+            },
+            "positions_per_size" : {
+              "0" : {
+                "2" : 3,
+                "6" : 1
+              }
+            },
+            "states" : {
+              "finished" : 3,
+              "retired" : 1
+            }
+          },
+          "race_finishes" : 0,
+          "race_joins" : 5,
+          "race_loads" : 0,
+          "race_loads_done" : 0,
+          "track_distances" : {
+            "-1849531562" : 39490,
+            "2050315946" : 98298,
+            "2054003546" : 128694,
+            "35770107" : 11160
+          },
+          "tracks" : {},
+          "vehicle_distances" : {
+            "-1548941295" : 11160,
+            "1464988033" : 98298,
+            "844159614" : 39490,
+            "851491257" : 128694
+          },
+          "vehicles" : {}
+        },
+        "last_joined" : 1590381688,
+        "name" : "ajslideways"
+      },
+      "76561199041603427" : {
+        "counts" : {
+          "qualify" : {
+            "positions" : {},
+            "positions_per_size" : {},
+            "states" : {}
+          },
+          "race" : {
+            "positions" : {
+              "2" : 1,
+              "4" : 1
+            },
+            "positions_per_size" : {
+              "0" : {
+                "2" : 1,
+                "4" : 1
+              }
+            },
+            "states" : {
+              "finished" : 2
+            }
+          },
+          "race_finishes" : 0,
+          "race_joins" : 2,
+          "race_loads" : 2,
+          "race_loads_done" : 2,
+          "track_distances" : {
+            "-1849531562" : 42721,
+            "35770107" : 11257
+          },
+          "tracks" : {},
+          "vehicle_distances" : {
+            "-1548941295" : 11257,
+            "844159614" : 42721
+          },
+          "vehicles" : {}
+        },
+        "last_joined" : 1590378703,
+        "name" : "david"
+      }
+    },
+    "server" : {
+      "name" : "RiceBoyPage",
+      "steam_disconnects" : 0,
+      "steam_downtime" : 0,
+      "total_steam_downtime" : 0,
+      "total_uptime" : "90966.8",
+      "uptime" : "90635.9"
+    },
+    "session" : {
+      "counts" : {
+        "lobbies" : 11,
+        "player_finishes" : 0,
+        "player_loads" : 0,
+        "player_loads_done" : 0,
+        "race_finishes" : 11,
+        "race_loads" : 6,
+        "race_loads_done" : 6,
+        "sessions" : 7,
+        "stage_counts" : {
+          "practice1" : 5,
+          "qualifying1" : 4,
+          "race1" : 4
+        },
+        "stage_durations" : {
+          "practice1" : 2718845,
+          "qualifying1" : 1926712,
+          "race1" : 3587065
+        },
+        "track_distances" : {
+          "-1612023328" : 18095,
+          "-1849531562" : 316245,
+          "2050315946" : 439777,
+          "2054003546" : 273536,
+          "35770107" : 59433
+        },
+        "tracks" : {
+          "-1612023328" : 1,
+          "-1849531562" : 1,
+          "1988984740" : 1,
+          "2050315946" : 1,
+          "2054003546" : 1,
+          "35770107" : 1
+        },
+        "vehicle_distances" : {
+          "-1548941295" : 59433,
+          "1464988033" : 439777,
+          "844159614" : 334340,
+          "851491257" : 273536
+        },
+        "vehicles" : {}
+      }
+    }
+  }
+}
+
+// EOF //
